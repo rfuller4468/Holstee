@@ -1,0 +1,201 @@
+
+#container{
+background: #778899;
+
+width:875px;
+padding:30px;
+word-spacing: 1px;
+text-transform: uppercase;
+border: dashed black 5px;
+text-align: justify;
+overflow:auto;}
+
+
+.span{
+  margin: 2px;
+  padding: 5px;
+  text-align: left;
+  line-height: 1;
+display: block;
+width: 792px;
+
+}
+
+
+.emphasis-1, .emphasis-2,  .emphasis-3,  .emphasis-4,  .emphasis-5{
+  font-family: 'Barlow Condensed', sans-serif;
+
+
+
+
+}
+.emphasis-6,.emphasis-7,  .emphasis-8,
+.emphasis-9,  .emphasis-10{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.life{
+  font-size:31px;
+  word-spacing: 2px;
+color: cyan;
+border: solid green 1px;
+  }
+
+.stop{
+    word-spacing: 2px;
+    color: #663399;
+    border: solid green 1px;}
+
+
+#this{
+    font-size: 100px;
+	padding-top: 45px;
+    text-decoration: underline;
+    float: left;
+    width: 250px;
+    border: solid green 1px;
+
+}
+
+#LIFE {
+    font-size: 260px;
+    padding: 5px;
+    font-weight: bold;
+    word-spacing: 1px;
+    float: left;
+    color: PURPLE;
+    border: solid green 1px;
+
+
+
+}
+
+#do-what{
+font-size: 60px;
+font-weight: bold;
+color: magenta;
+clear: both;
+float: left;
+word-spacing: 1px;
+width: 410px;
+border: solid green 1px;
+}
+
+
+#change{
+    font-size: 25px;
+    font-weight: bold;
+    width: 275px;
+    word-spacing: 1px;
+    float:left;
+    border: solid green 1px;
+}
+
+#quit {font-size: 29px;
+word-spacing: 1px;
+width: 270px;
+float:left;
+border: solid green 1px;
+}
+
+#tv{font-size: 28px;
+word-spacing: 1px;
+clear:both;float:left;
+border: solid green 1px;
+}
+
+#loveLife{font-size:27px;
+      word-spacing: 4px;
+      width: 700px;
+float:left;
+border: solid green 1px;
+}
+
+#analyzing{font-size:50px;
+        word-spacing: 1px;
+        width: 700px;
+clear: both;
+float:left;
+}
+
+#emotions{
+      font-size:60px;
+      color: orange;
+      clear:both;
+      float:left;
+      border: solid green 1px;
+}
+
+#eat{font-size:45px;
+word-spacing: 1px;
+clear: both;
+width: 285px;
+float:left;
+border: solid green 1px;
+}
+
+#open-minded{font-size:22px;
+          word-spacing: 1px;
+          width: 350px;
+          color: yellow;
+float:left;
+border: solid green 1px;
+}
+
+#passion{font-size:21px;
+  width: 450px;
+  color: white;
+float:left;
+border: solid blue 1px;
+}
+
+#travel {
+    font-size: 45px;
+    word-spacing: 1px;
+    width: 792px;
+    clear: both;
+    float:left;
+    border: solid blue 1px;
+}
+ #t2{
+   color: navy;
+   text-decoration: underline;
+   border: solid blue 3px;
+ }
+#seize{
+    font-size:35px;
+    word-spacing: 1px;
+    float:left;
+    border: solid blue 1px;
+    width: 792px;
+
+}
+
+#you-meet{
+      font-size:35px;
+      word-spacing: 2px;
+      width: 792px;
+      float:left;
+      border: solid blue 1px;
+}
+
+#short{font-size:50px;
+    word-spacing: 1px;
+clear:both;
+float:left;
+
+width: 210px;
+color:#DAA520;
+border: solid blue 1px;
+}
+
+#dream{
+    font-size:45px;
+    width: 580px;
+    word-spacing: 1px;
+    color: #A63659;
+    float:left;
+    border: solid purple 1px;
+
+}
